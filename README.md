@@ -8,7 +8,7 @@ If you have any enquiries about sample source code or our products, please conta
 
 < https://www.patlite.com/contact/english/input.html >
 
-![LR5-LAN](https://private-user-images.githubusercontent.com/198835208/412337842-84a55754-9d01-45f0-a126-af413b15c70f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNTQ1MzEsIm5iZiI6MTczOTM1NDIzMSwicGF0aCI6Ii8xOTg4MzUyMDgvNDEyMzM3ODQyLTg0YTU1NzU0LTlkMDEtNDVmMC1hMTI2LWFmNDEzYjE1YzcwZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxMlQwOTU3MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZWNmNTFmYmNmZjNlYWNjZmRjYWViMjY3N2ZlYmZiZTM3NTIwOWE2ZDkxZjY2Y2Y5M2E1NGMzNTdiN2MzZWM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sVv1pFotM0mswSlkHHJ7T4q6c1jw8A4RMPfk3Kcm8AU)
+![LR5-LAN_500px-250px](https://github.com/user-attachments/assets/84a55754-9d01-45f0-a126-af413b15c70f)
 
 [Product info](https://www.patlite.co.jp/product/detail0000000983.html) 
 
